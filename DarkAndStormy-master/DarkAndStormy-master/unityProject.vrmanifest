@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.darkandstormymaster.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Jake Foster\\Desktop\\DarkAndStormy-master\\DarkAndStormy-master\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "DarkAndStormy-master [Testing]"
+        }
+      }
+    }
+  ]
+}
